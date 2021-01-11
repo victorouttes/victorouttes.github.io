@@ -21,9 +21,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: https://github.com/victorouttes
+  github: victorouttes
   instagram:
-  linkedin: https://www.linkedin.com/in/victorouttes
+  linkedin: victorouttes
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -47,7 +47,7 @@ url: https://victorouttes.github.io/
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/victorouttes.github.io"
+baseurl: ""
 
 #
 # !! You don't need to change any of the configuration flags below !!
